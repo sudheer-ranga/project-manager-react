@@ -1,0 +1,16 @@
+.App {
+  width: calc(100vw);
+  height: calc(100vh);
+  padding: 10px;
+}
+
+.container {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  height: 100%;
+  width: 100%;
+
+  .main-heading {
+    color: white;
+  }
+}
