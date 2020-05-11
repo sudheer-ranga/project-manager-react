@@ -1,6 +1,6 @@
 # project-manager-react
 Assignment - custom todo manager
 
-Demo url - https://hpxht.csb.app/
+Demo ur - https://fs33u.csb.app/
 
 ### Build with React
